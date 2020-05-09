@@ -4,15 +4,11 @@ Here , Twitter Sentiment Analysis is done using Textblob and Tweepy, wrapped wit
 
 
 ## Installation
-1. Clone/Download this repository.
-2. Obtain your Twitter API credentials.
-3. Replace appropriate credentials in ```main.py``` file.
-4. Install all the required dependencies listed in ```requirements.txt```.
-5. Run the flask server using ```python main.py``` to see the result on port 5000(by default).
-
-## A brief on the libraries used :
-Mainly TextBlob and Tweepy are used for the main functionality. TextBlob is a great choice for NLP tasks, built on top of the famous Python library for NLP, i.e., NLTK.
-Tweepy is used for Interacting easily with the Twitter API and handling complex tasks such as Authentication(OAuth) with after obtaining the relevant credentials from Twitter Developer API.
+1. Clone the repo.
+2. Obtain your Twitter API credentials after creating a Twitter Developer account.
+3. Replace the generated credentials in ```main.py``` file. THe four credentials required are the API Key , the API key secret , the access token and the access token secret.
+4. Install all the required dependencies listed in  the ```requirements.txt``` file in the repo.
+5. We can run the flask server using ```python main.py``` and we can see the result on port 5000.
 
 ## Developed as a Web Mining Digital Assigment Project By Robin Thomas J
 
