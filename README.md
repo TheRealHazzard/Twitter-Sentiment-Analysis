@@ -16,6 +16,6 @@ Tweepy is used for Interacting easily with the Twitter API and handling complex 
 
 ## Developed By:
 Robin Thomas J
-Web Mining Digital Assigment Project
+as a Web Mining Digital Assigment Project
 
 
