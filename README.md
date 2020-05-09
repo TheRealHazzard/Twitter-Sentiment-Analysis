@@ -14,8 +14,8 @@ Here , Twitter Sentiment Analysis is done using Textblob and Tweepy, wrapped wit
 Mainly TextBlob and Tweepy are used for the main functionality. TextBlob is a great choice for NLP tasks, built on top of the famous Python library for NLP, i.e., NLTK.
 Tweepy is used for Interacting easily with the Twitter API and handling complex tasks such as Authentication(OAuth) with after obtaining the relevant credentials from Twitter Developer API.
 
-## Developed By:
-Robin Thomas J
-as a Web Mining Digital Assigment Project
+## Developed as a Web Mining Digital Assigment Project By Robin Thomas J
+
+
 
 
