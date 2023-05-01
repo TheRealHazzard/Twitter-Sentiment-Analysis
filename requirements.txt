@@ -1,6 +1,6 @@
 
 # main.py: 1
-Flask == 1.0.2
+Flask == 2.3.2
 
 # main.py: 3
 textblob == 0.15.2
